@@ -184,3 +184,8 @@ section .card {
 main {
     letter-spacing: -1px;
 } 
+/* footer */
+footer {
+    background-color: var(--color-footer-black);
+    color: var(--color-b-main);
+}
